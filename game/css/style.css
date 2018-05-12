@@ -1,0 +1,44 @@
+
+
+
+/* in html */
+.game{
+	width: 1000px;
+	margin: 0 auto;
+}
+
+/* in js */
+.basket{
+	display: inline-block;
+	margin: 10px;
+	width: 20%;
+	height: 250px;
+	overflow: hidden;
+	position: relative;
+	
+}
+
+/* in js */
+.water{
+	background-image:url('../photo/water.png');
+	background-size: cover;
+	z-index: 10;
+	position:absolute;
+	height: 50px;
+	bottom: 0px;
+	left:0px; 
+	width: 100%;
+}
+
+/* in js */
+.fruit{
+	background-image:url('../photo/fruit.png');
+	background-size: cover;
+	z-index: 3;
+	position:absolute;
+	height: 250px;
+	top:250px;
+	left:0px; 
+	width: 100%;
+	cursor: crosshair;
+}

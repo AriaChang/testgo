@@ -1,0 +1,118 @@
+
+ @font-face {
+    font-family: 'work_sansextrabold';
+    src: url('fonts/worksans/worksans-extrabold-webfont.woff2') format('woff2'),
+         url('fonts/worksans/worksans-extrabold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+
+
+.jumbotron{
+	
+	background:#8cdcf7 ;
+	width: 100%;
+	height: 300%;
+}
+ul {
+    margin-bottom: 50px;
+    
+    
+}
+
+
+#imglogo{
+	margin: 0px 0px 0px 50px
+}
+#palyagain{
+	padding: 0px 0px 0px 100px;
+	margin-left: 20%; 
+	}
+
+
+
+
+
+p{
+	font-family: 'work_sansextrabold';
+    float: left;
+    
+   
+}
+
+
+#p1{
+    font-size: 250%;
+	width: 5%;
+	padding: -10px;
+	margin: 0px 20px 0px 0px;
+	
+}
+#p2{
+	font-size:250%;
+	width: 5%;
+	padding: -30px;
+    margin: 0px 20px 0px 0px;
+}
+#p3{
+	font-size: 250%;
+	width: 5%;
+    padding: -30px;
+    margin: 0px 20px 0px 0px;
+}
+#p4{
+	font-size: 250%;
+	width: 5%;
+    padding: -30px;
+    margin: 0px 20px 0px 0px;
+}
+#p5{
+	font-size: 250%;
+	width: 5%;
+    padding: -30px;
+    margin: 0px 20px 0px 0px;
+}   
+#p6{
+	font-size: 250%;
+	width: 5%;
+    padding: -30px;
+    margin: 0px 20px 0px 0px;
+}     
+#p7{
+	font-size: 250%;
+	width: 5%;
+    padding: -30px;
+    margin: 0px 20px 0px 0px;
+}  
+
+.containerbutton{
+text-align: center;
+
+
+}
+
+#list-1{
+	
+	padding: 100px 0px 0px 100px;
+	
+}
+
+
+#myimg {
+    width: 200px;
+    height: 200px;
+    overflow:hidden;
+
+}
+#myimg1 {
+    width: 200px;
+    height: 200px;
+    overflow:hidden;
+
+}
+
+
